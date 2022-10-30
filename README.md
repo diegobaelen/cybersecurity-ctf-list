@@ -74,7 +74,6 @@
 <li><a href="https://portswigger.net/web-security">PortSwigger Web Security Academy</a></li>
 <li><a href="https://ctf.hacker101.com/ctf">Hacker101 CTF</a></li>
 <li><a href="https://xss-game.appspot.com/">Google XSS Game</a></li>
-<li><a href="http://www.dvwa.co.uk/">Damn Vulnerable Web App</a></li>
 <li><a href="http://google-gruyere.appspot.com/">Google Gruyere</a></li>
 <li><a href="https://www.hackthissite.org/">HackThisSite</a></li>
 <li><a href="http://www.itsecgames.com/">bWAPP</a></li>
@@ -108,9 +107,7 @@
 <ul>
 <li><a href="https://pwn.college/">pwn.college</a></li>
 <li><a href="https://ctflearn.com/">CTFLearn</a></li>
-<li><a href="https://365.csaw.io/">CSAW365</a></li>
 <li><a href="http://www.hacker.org/challenge/">Hacker.org</a></li>
-<li><a href="http://hax.tor.hu/welcome/">Hax.tor</a></li>
 <li><a href="https://ringzer0team.com/challenges">Ringzer0</a></li>
 <li><a href="https://www.hellboundhackers.org/">Hellbound Hackers</a></li>
 <li><a href="https://www.vulnhub.com/">Vulnhub</a></li>
@@ -131,7 +128,6 @@
 <li><a href="http://smashthestack.org/wargames.html" rel="nofollow">SmashTheStack</a></li>
 <li><a href="https://w3challs.com/challenges" rel="nofollow">W3Challs</a></li>
 <li><a href="https://ringzer0ctf.com/challenges" rel="nofollow">Ringzer0CTF</a></li>
-<li><a href="https://www.enigmagroup.org" rel="nofollow">Enigma Group</a></li>
 </ul>
 <h3>Pentesting</h3>
 <ul>
@@ -156,9 +152,7 @@
 <li><a href="https://ropemporium.com" rel="nofollow">ROP Emporium</a></li>
 <li><a href="https://exploit.education" rel="nofollow">Exploit Education</a></li>
 <li><a href="https://github.com/shellphish/how2heap">How2Heap</a></li>
-<li><a href="https://pwnable.tw/challenge" rel="nofollow">Pwnables</a></li>
 <li><a href="https://deusx64.ai" rel="nofollow">Deusx64</a></li>
-<li><a href="https://roppers.org/collections" rel="nofollow">Roppers Academy</a></li>
 <li><a href="https://azeria-labs.com/writing-arm-assembly-part-1" rel="nofollow">Azeria Labs</a></li>
 <li><a href="https://challenges.re" rel="nofollow">Reversing Challenges</a></li>
 <li><a href="https://www.begin.re" rel="nofollow">Begin RE</a></li>
